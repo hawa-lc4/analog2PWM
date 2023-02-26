@@ -1,5 +1,5 @@
 /*
-   hawa 09.02.2022
+   hawa-lc4 09.02.2022
    Board: Arduino Nano V3.0
 */
 const char SysVer[] = "analog2PWM 0.21";                    // System-Version; immer anpassen!!!
